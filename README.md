@@ -47,7 +47,7 @@ Olá! Eu sou **Eduardo de Macedo**.
 STATUS      : ONLINE
 MODE        : LEARNING
 FOCUS       : FRONT-END
-CURRENT     : JAVASCRIPT
+CURRENT     : JAVASCRIPT/PYTHON
 PROJECT     : ECOMOVE
 NEXT STEP   : PORTFOLIO
 ```
@@ -134,7 +134,7 @@ O projeto aborda carros elétricos, tecnologia, globalização, cadeia produtiva
 <table>
 <tr>
 <td align="center">01<br><b>HTML & CSS</b><br><sub>Aprimorar fundamentos</sub></td>
-<td align="center">02<br><b>JAVASCRIPT</b><br><sub>Evoluir na linguagem</sub></td>
+<td align="center">02<br><b>JAVASCRIPT/PYTHON</b><br><sub>Evoluir nas linguagens</sub></td>
 <td align="center">03<br><b>RESPONSIVE</b><br><sub>Interfaces adaptáveis</sub></td>
 </tr>
 <tr>
