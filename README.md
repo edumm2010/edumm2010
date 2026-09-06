@@ -19,7 +19,7 @@
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 
 <p align="center">
-Olá! Eu sou <b>Eduardo de Macedo</b>.<br>
+Olá! Eu sou o <b>Eduardo</b>.<br>
 Estudante de Informática e desenvolvedor em formação, com foco em <b>Front-End</b>.<br>
 Gosto de tecnologia, desenvolvimento web e de transformar ideias em projetos reais.
 </p>
