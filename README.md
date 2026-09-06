@@ -68,7 +68,7 @@ NEXT STEP   : PORTFOLIO
 
 <img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=00E5FF" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css&logoColor=00E5FF" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-LEARNING-00E5FF?style=for-the-badge&logo=javascript&logoColor=07111F&labelColor=07111F" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript/Python-LEARNING-00E5FF?style=for-the-badge&logo=javascript&logoColor=07111F&labelColor=07111F" alt="JavaScript">
 <img src="https://img.shields.io/badge/Git-07111F?style=for-the-badge&logo=git&logoColor=00E5FF" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub">
 
