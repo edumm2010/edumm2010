@@ -63,7 +63,7 @@ O projeto apresenta conteúdos sobre a **história dos carros elétricos, global
 ## 🎯 Objetivos atuais
 
 ⚡ Aprimorar HTML e CSS  
-🟨 Evoluir em JavaScript  
+🟨 Evoluir em JavaScript e em Python  
 🌐 Criar sites responsivos  
 🎨 Aprender mais sobre UI/UX  
 🧩 Criar novos projetos  
