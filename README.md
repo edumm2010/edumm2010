@@ -19,7 +19,7 @@ Gosto de desenvolvimento web, tecnologia e de transformar ideias em projetos rea
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Competências
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,python,mysql,photoshop,windows,linux,github,vscode&theme=dark" alt="Tech Stack">
