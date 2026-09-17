@@ -83,7 +83,7 @@ O projeto apresenta conteúdos sobre a **história dos carros elétricos, global
 ## 🌐 Contato
 
 <div align="center">
-<a href="https://www.linkedin.com/in/eduardo-de-macedo-moreira-b62601356"><img src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/edumm2010"><img src="https://img.shields.io/badge/Linkedin-07111F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
 <a href="mailto:edumm2010@gmail.com"><img src="https://img.shields.io/badge/Email-07111F?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"></a>
 <a href="https://github.com/edumm2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"></a>
 </div>
