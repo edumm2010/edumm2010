@@ -55,6 +55,7 @@ O projeto apresenta conteúdos sobre a **história dos carros elétricos, global
 <img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=00E5FF" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css&logoColor=00E5FF" alt="CSS3">
 <img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python">
+<img src="https://img.shields.io/badge/MySQL-07111F?style=for-the-badge&logo=mysql&logoColor=00E5FF" alt="MySQL">
 
 </div>
 
