@@ -3,7 +3,7 @@
 # ⚡ EDUARDO DE MACEDO
 ### `FRONT-END • TECHNOLOGY • DEVELOPMENT`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+PROFILE...;%3E+HTML+%7C+CSS+%7C+JAVASCRIPT;%3E+BUILDING+DIGITAL+EXPERIENCES...;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+PROFILE...;%3E+HTML+%7C+CSS+%7C+PYTHON+%7C+MYSQL;%3E+BUILDING+DIGITAL+EXPERIENCES...;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Typing animation">
 
 </div>
 
